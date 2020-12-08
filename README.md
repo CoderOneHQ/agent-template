@@ -1,4 +1,4 @@
-# 🐉 Dungeons and Data Structures - Template Agents
+# 🐉 Dungeons and Data Structures - Agent Templates
 This Repo contains templates and practise Agents for the AI Sports Challenge 2020 (Dungeons and Data Structures).
 
 Download the Agent file and save this in your working directory for the challenge.
